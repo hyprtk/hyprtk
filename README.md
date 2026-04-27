@@ -21,5 +21,5 @@ I am a tinkerer by trade and right now my jam is Hyprland
 ![](https://github-contributor-stats.vercel.app/api?username=hyprtk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
-
+https://visitor-badge.laobi.icu/badge?page_id=hyprtk.visitor-badge
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
