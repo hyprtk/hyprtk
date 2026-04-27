@@ -6,7 +6,7 @@ I am a tinkerer by trade and right now my jam is Hyprland
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=hyprtk&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=hyprtk&theme=dark&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hyprtk&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hyprtk&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hyprtk&theme=radical&no-frame=true&no-bg=true&margin-w=4)
