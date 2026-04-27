@@ -10,12 +10,12 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/hyprtk">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hyprtk&cache_seconds=7200&layout=compact&theme=tokyonight&hide_border" alt="hyprtk's GitHub Stats" width="49%" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hyprtk&cache_seconds=7200&layout=compact&theme=tokyonight&hide_border=true" alt="hyprtk's GitHub Stats" width="49%" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=hyprtk&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="hyprtk's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=hyprtk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kori Tk's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=hyprtk&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kori Tk's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=hyprtk&theme=tokyonight&radius=10" alt="hyprtk's Activity Graph" />
