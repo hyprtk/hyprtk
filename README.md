@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Kori Tk</h1>
-<h3 align="center">Hyprland Tinkerer Extraordinair!!</h3>
+<h3 align="center">Hyprland Tinkerer!!!</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=hyprtk">
@@ -10,15 +10,15 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/hyprtk">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hyprtk&cache_seconds=7200&layout=compact&theme=tokyonight&hide_border=true" alt="hyprtk's GitHub Stats" width="49%" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hyprtk&cache_seconds=7200&layout=compact&theme=tokyonight&hide_border=true" alt="hyprtk's GitHub Stats" width="50%" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=hyprtk&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="hyprtk's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=hyprtk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kori Tk's GitHub Trophies" width="60%" />
+  <img src="https://trophy.ryglcloud.net/?username=hyprtk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400" alt="Kori Tk's GitHub Trophies" width="70%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=hyprtk&theme=tokyonight&radius=10" alt="hyprtk's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=hyprtk&theme=tokyonight&radius=0" alt="hyprtk's Activity Graph" />
 </p>
 
 
