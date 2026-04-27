@@ -18,7 +18,7 @@
   <img src="https://trophy.ryglcloud.net/?username=hyprtk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400" alt="Kori Tk's GitHub Trophies" width="100%" />
 </p>
 <p align="center">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyprtk&amp;theme=tokyonight" alt="Kori Tk's GitHub Commits" style="max-width: 100%;">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyprtk&amp;theme=tokyonight" alt="Kori Tk's GitHub Commits" width="100">
 </p>
 
 
