@@ -9,11 +9,6 @@
 
 ## 📊 GitHub Stats & Trophies
 
-<table>
-  <tr>
-    <td align="center"><img src="image1.png" alt="Image 1" width="200"></td>
-    <td align="center"><img src="image2.png" alt="Image 2" width="200"></td>
-  </tr>
 </table>   
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hyprtk&cache_seconds=7200&layout=compact&theme=tokyonight&hide_border=true" alt="hyprtk's GitHub Stats" width="45%" /> <img src="https://streak-stats.demolab.com/?user=hyprtk&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="hyprtk's GitHub Streak" width="45%" />
@@ -22,7 +17,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyprtk&amp;theme=tokyonight" alt="GitHub Summary" style="max-width: 100%;">
 </p>  
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=hyprtk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400" alt="Kori Tk's GitHub Trophies" width="60%" />
+  <img src="https://trophy.ryglcloud.net/?username=hyprtk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400" alt="Kori Tk's GitHub Trophies" width="100%" />
 </p>
 
 
