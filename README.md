@@ -9,9 +9,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/hyprtk">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hyprtk&cache_seconds=7200&layout=compact&theme=tokyonight&hide_border=true" alt="hyprtk's GitHub Stats" width="49%" />
-  </a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hyprtk&cache_seconds=7200&layout=compact&theme=tokyonight&hide_border=true" alt="hyprtk's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=hyprtk&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="hyprtk's GitHub Streak" width="49%" />
 </p>
 <p align="center">
