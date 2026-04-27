@@ -7,8 +7,6 @@
   </a>
 </p>
 
-<img src="https://github.com/hyprtk/hyprtk/blob/main/images/hyprtk-banner.png" alt="Banner" width="100%" />
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/hyprtk">
