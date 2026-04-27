@@ -21,6 +21,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=hyprtk&theme=tokyonight&radius=0" alt="hyprtk's Activity Graph" />
 </p>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyprtk&amp;theme=tokyonight" style="max-width: 100%;">
 
 ## 🛠️ Languages & Tools
 
