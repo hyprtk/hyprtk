@@ -4,7 +4,7 @@ I am a tinkerer by trade and right now my jam is Hyprland
 # Visitor Count
 ![visitor badge](https://visitor-badge.imlete.cn/?id=github.hyprtk.visitor-badge)
 ![visitor badge](https://visitor-badge.imlete.cn/?id=github.hyprtk.visitor-badge&labelColor=f00)
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+<script src="ovc/counter.js"></script>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=hyprtk&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
