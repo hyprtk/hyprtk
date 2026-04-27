@@ -15,10 +15,10 @@
   <img src="https://streak-stats.demolab.com/?user=hyprtk&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="hyprtk's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=hyprtk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400" alt="Kori Tk's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=hyprtk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400" alt="Kori Tk's GitHub Trophies" width="70%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=hyprtk&theme=tokyonight&radius=10" alt="hyprtk's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=hyprtk&theme=tokyonight&radius=0" alt="hyprtk's Activity Graph" />
 </p>
 
 
