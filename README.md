@@ -18,10 +18,9 @@
   <img src="https://trophy.ryglcloud.net/?username=hyprtk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400" alt="Kori Tk's GitHub Trophies" width="70%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=hyprtk&theme=tokyonight&radius=0" alt="hyprtk's Activity Graph" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyprtk&amp;theme=tokyonight" alt="Kori Tk's GitHub Commits" style="max-width: 100%;">
 </p>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyprtk&amp;theme=tokyonight" style="max-width: 100%;">
 
 ## 🛠️ Languages & Tools
 
