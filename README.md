@@ -1,6 +1,6 @@
-## I know i should really get this sorted but my mind is a blank right now but after 18months of fighting cancer i am finally back tinkering with things
+I know i should really get this sorted but my mind is a blank right now but after 18months of fighting cancer i am finally back tinkering with things
 
-## So please watch this space 
+So please watch this space 
 
 <!--
 **hyprtk/hyprtk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
