@@ -1,5 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="40px" width="40px"> I'm Kori Tk</h1>
-<h3 align="center">Hyprland Tinkerer!!!</h3>
+<h3 align="center">Hyprland Tinkerer!!! this space is where i come to get my jam on with Hyprland</h3>
+<h3 align="center">Arch is my favourite Desktop OS and i have found that it has been quite easy to build out versions of my dotfiles for other Arch Based distro's, so please download and give them a whirl. Always looking for people to help so if you are up for the job</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=hyprtk">
