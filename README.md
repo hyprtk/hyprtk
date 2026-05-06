@@ -7,6 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=hyprtk&label=Profile%20views&color=00FFFF&style=flat-square" alt="hyprtk's profile views" />
   </a>
 </p>
+
 <table align="center">
   <tr>
     <th>Supported Distributions</th>
@@ -48,7 +49,8 @@
     <td><a href="https://github.com/hyprtk/reborn-dots">RebornOS</a></td>
     <td><img src="https://github.com/hyprtk/dotfiles/blob/main/thumbnails/reborn1-thumb.png" width="350"></td>
   </tr>
-</table>   
+</table>
+
 ## 📊 GitHub Stats & Trophies
 
 </table>   
