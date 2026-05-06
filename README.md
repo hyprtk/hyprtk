@@ -30,7 +30,7 @@
     <td><img src="https://github.com/hyprtk/dotfiles/blob/main/thumbnails/cachy1-thumb.png" width="350"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/hyprtk/endeavour-dots">EndeavurOS</a></td>
+    <td><a href="https://github.com/hyprtk/endeavour-dots">EndeavourOS</a></td>
     <td><img src="https://github.com/hyprtk/dotfiles/blob/main/thumbnails/endeavour1-thumb.png" width="350"></td>
   </tr>
   <tr>
