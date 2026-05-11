@@ -61,6 +61,9 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyprtk&amp;theme=tokyonight" alt="GitHub Summary" style="max-width: 100%;">
 </p>
 
+## Hyprland Updates
+0.55 - Removal of Dwindle layout, dotfiles updated to reflect this change so no errors appear above waybar
+
 ## 🛠️ Languages & Tools
 
 <p align="center">
