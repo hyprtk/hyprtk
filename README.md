@@ -18,6 +18,10 @@
     <td><img src="https://github.com/hyprtk/dotfiles/blob/main/thumbnails/arch1-thumb.png" width="350"></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/hyprtk/archbang-dots">ArchBANG Linux</a></td>
+    <td><img src="https://github.com/hyprtk/dotfiles/blob/main/thumbnails/archbang1-thumb.png" width="350"></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/hyprtk/archcraft-dots">Archcraft Linux</a></td>
     <td><img src="https://github.com/hyprtk/dotfiles/blob/main/thumbnails/archcraft1-thumb.png" width="350"></td>
   </tr>
