@@ -70,6 +70,7 @@
 </p>
 
 ## Hyprland Updates
+0.55 - Conversion from .conf to .lua format for hyprland config
 0.55 - Removal of Dwindle layout, dotfiles updated to reflect this change so no errors appear above waybar
 
 ## 🛠️ Languages & Tools
