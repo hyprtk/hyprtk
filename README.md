@@ -61,7 +61,7 @@
 
 <table align="center">
   <tr>
-    <th>Supported Distributions</th>
+    <th>Test and Build Dotfiles</th>
     <th>Thumbnails</th>
   </tr>
   <tr>
