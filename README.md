@@ -59,6 +59,17 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <th>Supported Distributions</th>
+    <th>Thumbnails</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hyprtk/my-dots">My Personal Dots</a></td>
+    <td><img src="https://github.com/hyprtk/dotfiles/blob/main/thumbnails/mydots1-thumb.png" width="350"></td>
+  </tr>
+</table>
+
 ## 📊 GitHub Stats & Trophies
 
 </table>   
