@@ -62,38 +62,42 @@
 
 <p align="center" style="color: rgba(255,255,255,0.3);">37 dotfiles &middot; 18 package groups &middot; 46 scripts</p>
 
+<div align="center">
 <table style="width:100%;">
   <tr>
-    <td style="width:50%; vertical-align:top; padding:8px;"><span style="color:#c084fc; font-weight:600;">pywal16 theming</span><br><span style="color:rgba(255,255,255,0.45);">Dynamic colours from wallpaper</span></td>
-    <td style="width:50%; vertical-align:top; padding:8px;"><span style="color:#c084fc; font-weight:600;">gum TUI installer</span><br><span style="color:rgba(255,255,255,0.45);">Auto-detects distro, 18 pkg groups</span></td>
+    <td style="width:50%; vertical-align:top; padding:8px; text-align:center;"><span style="color:#c084fc; font-weight:600;">pywal16 theming</span><br><span style="color:rgba(255,255,255,0.45);">Dynamic colours from wallpaper</span></td>
+    <td style="width:50%; vertical-align:top; padding:8px; text-align:center;"><span style="color:#c084fc; font-weight:600;">gum TUI installer</span><br><span style="color:rgba(255,255,255,0.45);">Auto-detects distro, 18 pkg groups</span></td>
   </tr>
   <tr>
-    <td style="width:50%; vertical-align:top; padding:8px;"><span style="color:#c084fc; font-weight:600;">waybar themes</span><br><span style="color:rgba(255,255,255,0.45);">Super+Ctrl+T to switch on the fly</span></td>
-    <td style="width:50%; vertical-align:top; padding:8px;"><span style="color:#c084fc; font-weight:600;">wallpaper tools</span><br><span style="color:rgba(255,255,255,0.45);">Random / rofi picker / film roll</span></td>
+    <td style="width:50%; vertical-align:top; padding:8px; text-align:center;"><span style="color:#c084fc; font-weight:600;">waybar themes</span><br><span style="color:rgba(255,255,255,0.45);">Super+Ctrl+T to switch on the fly</span></td>
+    <td style="width:50%; vertical-align:top; padding:8px; text-align:center;"><span style="color:#c084fc; font-weight:600;">wallpaper tools</span><br><span style="color:rgba(255,255,255,0.45);">Random / rofi picker / film roll</span></td>
   </tr>
   <tr>
-    <td style="width:50%; vertical-align:top; padding:8px;"><span style="color:#c084fc; font-weight:600;">clipboard & screenshots</span><br><span style="color:rgba(255,255,255,0.45);">cliphist, grim+slurp+swappy, wf-recorder</span></td>
-    <td style="width:50%; vertical-align:top; padding:8px;"><span style="color:#c084fc; font-weight:600;">swaylock + session</span><br><span style="color:rgba(255,255,255,0.45);">Blur lock, hyprlogout menu, SDDM</span></td>
+    <td style="width:50%; vertical-align:top; padding:8px; text-align:center;"><span style="color:#c084fc; font-weight:600;">clipboard & screenshots</span><br><span style="color:rgba(255,255,255,0.45);">cliphist, grim+slurp+swappy, wf-recorder</span></td>
+    <td style="width:50%; vertical-align:top; padding:8px; text-align:center;"><span style="color:#c084fc; font-weight:600;">swaylock + session</span><br><span style="color:rgba(255,255,255,0.45);">Blur lock, hyprlogout menu, SDDM</span></td>
   </tr>
   <tr>
-    <td style="width:50%; vertical-align:top; padding:8px;"><span style="color:#c084fc; font-weight:600;">nvidia & amd support</span><br><span style="color:rgba(255,255,255,0.45);">Dedicated nvidia.conf, DRM, AMDGPU</span></td>
-    <td style="width:50%; vertical-align:top; padding:8px;"><span style="color:#c084fc; font-weight:600;">modular lua config</span><br><span style="color:rgba(255,255,255,0.45);">18 lua files for Hyprland</span></td>
+    <td style="width:50%; vertical-align:top; padding:8px; text-align:center;"><span style="color:#c084fc; font-weight:600;">nvidia & amd support</span><br><span style="color:rgba(255,255,255,0.45);">Dedicated nvidia.conf, DRM, AMDGPU</span></td>
+    <td style="width:50%; vertical-align:top; padding:8px; text-align:center;"><span style="color:#c084fc; font-weight:600;">modular lua config</span><br><span style="color:rgba(255,255,255,0.45);">18 lua files for Hyprland</span></td>
   </tr>
   <tr>
-    <td style="width:50%; vertical-align:top; padding:8px;"><span style="color:#c084fc; font-weight:600;">46 utility scripts</span><br><span style="color:rgba(255,255,255,0.45);">Volume, brightness, recording, QEMU, more</span></td>
-    <td style="width:50%; vertical-align:top; padding:8px;"><span style="color:#c084fc; font-weight:600;">XFCE fallback</span><br><span style="color:rgba(255,255,255,0.45);">Full desktop environment safety net</span></td>
+    <td style="width:50%; vertical-align:top; padding:8px; text-align:center;"><span style="color:#c084fc; font-weight:600;">46 utility scripts</span><br><span style="color:rgba(255,255,255,0.45);">Volume, brightness, recording, QEMU, more</span></td>
+    <td style="width:50%; vertical-align:top; padding:8px; text-align:center;"><span style="color:#c084fc; font-weight:600;">XFCE fallback</span><br><span style="color:rgba(255,255,255,0.45);">Full desktop environment safety net</span></td>
   </tr>
 </table>
+</div>
 
 <br>
 
 ## <span style="color:#c084fc;">hyprland</span> <span style="color:#22d3ee;">updates</span>
 
+<div align="center">
 <table style="width:100%;">
-  <tr><th style="text-align:left; color:#22d3ee; padding:6px;">Version</th><th style="text-align:left; color:#c084fc; padding:6px;">Notes</th></tr>
-  <tr><td style="padding:6px;">0.55.4</td><td style="padding:6px;">Conversion from .conf to .lua format for hyprland config</td></tr>
-  <tr><td style="padding:6px;">0.55</td><td style="padding:6px;">Removal of Dwindle layout, dotfiles updated</td></tr>
+  <tr><th style="text-align:center; color:#22d3ee; padding:6px;">Version</th><th style="text-align:center; color:#c084fc; padding:6px;">Notes</th></tr>
+  <tr><td style="padding:6px; text-align:center;">0.55.4</td><td style="padding:6px; text-align:center;">Conversion from .conf to .lua format for hyprland config</td></tr>
+  <tr><td style="padding:6px; text-align:center;">0.55</td><td style="padding:6px; text-align:center;">Removal of Dwindle layout, dotfiles updated</td></tr>
 </table>
+</div>
 
 <br>
 
