@@ -39,17 +39,17 @@
     <th align="left" width="200" style="color:#22d3ee;">Distribution</th>
     <th width="320" style="color:#c084fc;">Preview</th>
   </tr>
-  <tr><td><a href="https://github.com/hyprtk/dotfiles">Arch Linux</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/thumbnails/arch1-thumb.png" width="320"></td></tr>
-  <tr><td><a href="https://github.com/hyprtk/dotfiles">ArchBANG</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/thumbnails/archbang1-thumb.png" width="320"></td></tr>
-  <tr><td><a href="https://github.com/hyprtk/dotfiles">Archcraft</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/thumbnails/archcraft1-thumb.png" width="320"></td></tr>
-  <tr><td><a href="https://github.com/hyprtk/dotfiles">Archman</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/thumbnails/archman1-thumb.png" width="320"></td></tr>
-  <tr><td><a href="https://github.com/hyprtk/dotfiles">BlueStar</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/thumbnails/bslx1-thumb.png" width="320"></td></tr>
-  <tr><td><a href="https://github.com/hyprtk/dotfiles">CachyOS</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/thumbnails/cachy1-thumb.png" width="320"></td></tr>
-  <tr><td><a href="https://github.com/hyprtk/dotfiles">EndeavourOS</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/thumbnails/endeavour1-thumb.png" width="320"></td></tr>
-  <tr><td><a href="https://github.com/hyprtk/dotfiles">Garuda</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/thumbnails/garuda1-thumb.png" width="320"></td></tr>
-  <tr><td><a href="https://github.com/hyprtk/dotfiles">Kiro</a> (ArcoLinux Project)</td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/thumbnails/kiro1-thumb.png" width="320"></td></tr>
-  <tr><td><a href="https://github.com/hyprtk/dotfiles">Manjaro</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/thumbnails/manjaro1-thumb.png" width="320"></td></tr>
-  <tr><td><a href="https://github.com/hyprtk/dotfiles">RebornOS</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/thumbnails/reborn1-thumb.png" width="320"></td></tr>
+  <tr><td><a href="https://github.com/hyprtk/dotfiles">Arch Linux</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/assets/thumbnails/arch1-thumb.png" width="320"></td></tr>
+  <tr><td><a href="https://github.com/hyprtk/dotfiles">ArchBANG</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/assets/thumbnails/archbang1-thumb.png" width="320"></td></tr>
+  <tr><td><a href="https://github.com/hyprtk/dotfiles">Archcraft</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/assets/thumbnails/archcraft1-thumb.png" width="320"></td></tr>
+  <tr><td><a href="https://github.com/hyprtk/dotfiles">Archman</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/assets/thumbnails/archman1-thumb.png" width="320"></td></tr>
+  <tr><td><a href="https://github.com/hyprtk/dotfiles">BlueStar</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/assets/thumbnails/bslx1-thumb.png" width="320"></td></tr>
+  <tr><td><a href="https://github.com/hyprtk/dotfiles">CachyOS</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/assets/thumbnails/cachy1-thumb.png" width="320"></td></tr>
+  <tr><td><a href="https://github.com/hyprtk/dotfiles">EndeavourOS</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/assets/thumbnails/endeavour1-thumb.png" width="320"></td></tr>
+  <tr><td><a href="https://github.com/hyprtk/dotfiles">Garuda</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/assets/thumbnails/garuda1-thumb.png" width="320"></td></tr>
+  <tr><td><a href="https://github.com/hyprtk/dotfiles">Kiro</a> (ArcoLinux Project)</td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/assets/thumbnails/kiro1-thumb.png" width="320"></td></tr>
+  <tr><td><a href="https://github.com/hyprtk/dotfiles">Manjaro</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/assets/thumbnails/manjaro1-thumb.png" width="320"></td></tr>
+  <tr><td><a href="https://github.com/hyprtk/dotfiles">RebornOS</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/assets/thumbnails/reborn1-thumb.png" width="320"></td></tr>
 </table>
 
 <br>
@@ -58,7 +58,7 @@
 
 <table align="center">
   <tr><th align="left" width="200" style="color:#22d3ee;">Dotfiles</th><th width="320" style="color:#c084fc;">Preview</th></tr>
-  <tr><td><a href="https://github.com/hyprtk/my-dots">my-dots</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/thumbnails/mydots1-thumb.png" width="320"></td></tr>
+  <tr><td><a href="https://github.com/hyprtk/my-dots">my-dots</a></td><td><img src="https://github.com/hyprtk/dotfiles/raw/main/assets/thumbnails/mydots1-thumb.png" width="320"></td></tr>
 </table>
 
 <br>
