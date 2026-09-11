@@ -23,9 +23,6 @@
   <a href="https://github.com/hyprtk/dotfiles">
     <img src="https://img.shields.io/badge/dotfiles-c084fc?style=flat-square" alt="dotfiles" />
   </a>
-  <a href="https://github.com/hyprtk/hyprtk-web">
-    <img src="https://img.shields.io/badge/website-22d3ee?style=flat-square" alt="website" />
-  </a>
 </p>
 
 <br>
