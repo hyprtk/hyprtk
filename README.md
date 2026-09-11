@@ -124,9 +124,9 @@ A single `1-install.sh` detects your distribution and lays down a matching, hand
 ### Install
 
 ```bash
-git clone https://github.com/hyprtk/dotfiles
-cd dotfiles
-./1-install.sh
+git clone https://github.com/hyprtk/dotfiles.git ~/hyprtk
+cd ~/hyprtk
+sh ./1-install.sh
 ```
 
 <a href="https://github.com/hyprtk/dotfiles"><img src="https://img.shields.io/badge/View%20the%20repository-c084fc?style=for-the-badge&logo=github&logoColor=white" alt="View the repository" /></a>
