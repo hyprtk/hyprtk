@@ -2,7 +2,7 @@
 
 # hyprtk
 
-### Hyprland Tinkerer
+### Hyprland Tinkerer ###
 
 Arch is my favourite desktop OS. I build dotfiles for Arch-based distros and tweak Hyprland until it sings.
 
