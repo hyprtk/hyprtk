@@ -4,7 +4,7 @@
 
 ### Hyprland Tinkerer ###
 
-Arch is my favourite desktop OS. I build dotfiles for Arch-based distros and tweak Hyprland until it sings.
+Linux is my desktop. I build dotfiles that turn any distribution into a themed Hyprland desktop — and tweak Hyprland until it sings.
 
 <a href="https://github.com/hyprtk/dotfiles"><img src="https://img.shields.io/badge/dotfiles-c084fc?style=for-the-badge" alt="dotfiles" /></a>
 <a href="https://github.com/hyprtk/hyprtk-bar"><img src="https://img.shields.io/badge/hyprtk--bar-22d3ee?style=for-the-badge" alt="hyprtk-bar" /></a>
@@ -27,9 +27,9 @@ Arch is my favourite desktop OS. I build dotfiles for Arch-based distros and twe
 
 ### 🗂️ hyprtk dotfiles
 
-**One installer. Eleven Arch-based distros.**
+**One installer. Any Linux distribution.**
 
-A unified, `gum`-powered installer that deploys a complete, pywal16-themed Hyprland desktop — 37 dotfiles, 18 package groups, 46 scripts and a full **XFCE fallback** for safety. Every colour on screen is generated from your wallpaper.
+A unified, `gum`-powered installer that deploys a complete, pywal16-themed Hyprland desktop on 18 distributions across six package-manager families — 18 package groups, 16 Lua modules and 60+ utility scripts, with a full **XFCE fallback** for safety. Every colour on screen is generated from your wallpaper.
 
 [**Explore the installer →**](https://github.com/hyprtk/dotfiles)
 
@@ -40,7 +40,7 @@ A unified, `gum`-powered installer that deploys a complete, pywal16-themed Hyprl
 
 **The bar that is the whole desktop.**
 
-A standalone GTK3 taskbar + desktop suite: task list, start menu, arc launcher, notification center, system tray, quick settings, system monitor and theme manager — all themed live from your pywal16 palette.
+A standalone GTK3 taskbar + desktop suite: task list, start menu, arc launcher, notification center, system tray, quick settings, system monitor, theme manager and free-floating desktop widgets — all themed live from your pywal16 palette.
 
 [**Explore hyprtk-bar →**](https://github.com/hyprtk/hyprtk-bar)
 
@@ -63,9 +63,9 @@ A standalone GTK3 taskbar + desktop suite: task list, start menu, arc launcher, 
 
 <div align="center">
 
-### One installer, every Arch-based distro
+### One installer, every Linux distribution
 
-A single `1-install.sh` detects your distribution and lays down a matching, hand-tuned Hyprland desktop. The same command deploys to all eleven supported systems — and keeps them in sync.
+A single `1-install.sh` detects your distribution and lays down a matching, hand-tuned Hyprland desktop. From Arch to Alpine and Debian to openSUSE, the same command deploys to every supported system — and keeps them in sync.
 
 </div>
 
@@ -78,11 +78,11 @@ A single `1-install.sh` detects your distribution and lays down a matching, hand
 </tr>
 <tr>
 <td align="center" width="33%"><b>🪟 hyprtk-bar bundled</b><br /><sub>The desktop suite installs and autostarts with it</sub></td>
-<td align="center" width="33%"><b>🧠 Modular Lua config</b><br /><sub>18 Lua files for a clean, hackable Hyprland setup</sub></td>
+<td align="center" width="33%"><b>🧠 Modular Lua config</b><br /><sub>16 Lua modules for a clean, hackable Hyprland setup</sub></td>
 <td align="center" width="33%"><b>⚡ NVIDIA & AMD ready</b><br /><sub>Dedicated configs, DRM and AMDGPU support</sub></td>
 </tr>
 <tr>
-<td align="center" width="33%"><b>🛠️ 46 utility scripts</b><br /><sub>Volume, brightness, recording, QEMU and more</sub></td>
+<td align="center" width="33%"><b>🛠️ 60+ utility scripts</b><br /><sub>Volume, brightness, recording, wallpaper and more</sub></td>
 <td align="center" width="33%"><b>🖼️ Wallpaper tools</b><br /><sub>Random picker, rofi selector, film roll</sub></td>
 <td align="center" width="33%"><b>🔒 Session & lock</b><br /><sub>swaylock blur, logout menu, SDDM/GRUB theming</sub></td>
 </tr>
@@ -172,6 +172,11 @@ hyprtk-bar replaced a stack of separate tools — a bar, a launcher, a notificat
 <td align="center" width="33%"><b>🎨 Theme manager</b><br /><sub>Wallpaper, pywal, rofi, bar themes, icons, SDDM & GRUB</sub></td>
 <td align="center" width="33%"><b>⚙️ Quick settings</b><br /><sub>Wi-Fi, Bluetooth, volume + mic, brightness</sub></td>
 </tr>
+<tr>
+<td align="center" width="33%"><b>🪟 Desktop widgets</b><br /><sub>Clock, weather, audio visualizer, disks, network, CPU/RAM, system info</sub></td>
+<td align="center" width="33%"><b>⚙️ Full settings</b><br /><sub>Nine live pages: bar, fonts, themes, animations, menu, quicklinks, modules, widgets</sub></td>
+<td align="center" width="33%"><b>📅 Calendar &amp; clock</b><br /><sub>Popup calendar and hover date on the clock</sub></td>
+</tr>
 </table>
 </div>
 
@@ -188,14 +193,50 @@ hyprtk-bar replaced a stack of separate tools — a bar, a launcher, a notificat
 </tr>
 </table>
 
-<div align="center"><h4>Showcase · app launcher, settings &amp; widgets</h4></div>
+<div align="center"><h4>Showcase · launcher, quick settings &amp; calendar</h4></div>
 
 <table>
 <tr>
-<td width="25%" align="center"><img src="assets/bar/arc-menu.png" alt="Arc menu" /><br /><b>Arc menu</b></td>
-<td width="25%" align="center"><img src="assets/bar/quick-settings.png" alt="Quick settings" /><br /><b>Quick settings</b></td>
-<td width="25%" align="center"><img src="assets/bar/calendar.png" alt="Calendar" /><br /><b>Calendar</b></td>
-<td width="25%" align="center"><img src="assets/bar/settings.png" alt="Settings" /><br /><b>Settings</b></td>
+<td width="33%" align="center"><img src="assets/bar/arc-menu.png" alt="Arc menu" /><br /><b>Arc menu</b></td>
+<td width="33%" align="center"><img src="assets/bar/quick-settings.png" alt="Quick settings" /><br /><b>Quick settings</b></td>
+<td width="33%" align="center"><img src="assets/bar/calendar.png" alt="Calendar" /><br /><b>Calendar</b></td>
+</tr>
+</table>
+
+<div align="center"><h4>Showcase · settings (nine pages)</h4></div>
+
+<table>
+<tr>
+<td width="33%" align="center"><img src="assets/bar/settings.png" alt="Bar" /><br /><b>Bar</b></td>
+<td width="33%" align="center"><img src="assets/bar/settings-fonts.png" alt="Fonts" /><br /><b>Fonts</b></td>
+<td width="33%" align="center"><img src="assets/bar/settings-themes.png" alt="Themes" /><br /><b>Themes</b></td>
+</tr>
+<tr>
+<td width="33%" align="center"><img src="assets/bar/settings-animations.png" alt="Animations" /><br /><b>Animations</b></td>
+<td width="33%" align="center"><img src="assets/bar/settings-menu.png" alt="Menu" /><br /><b>Menu</b></td>
+<td width="33%" align="center"><img src="assets/bar/settings-quicklinks.png" alt="Quicklinks" /><br /><b>Quicklinks</b></td>
+</tr>
+<tr>
+<td width="33%" align="center"><img src="assets/bar/settings-modules.png" alt="Modules" /><br /><b>Modules</b></td>
+<td width="33%" align="center"><img src="assets/bar/settings-arcmenu-general.png" alt="Arc Menu" /><br /><b>Arc Menu</b></td>
+<td width="33%" align="center"><img src="assets/bar/settings-widgets-clock.png" alt="Widgets" /><br /><b>Widgets</b></td>
+</tr>
+</table>
+
+<div align="center"><h4>Showcase · desktop widgets</h4></div>
+
+<table>
+<tr>
+<td width="25%" align="center"><img src="assets/bar/widget-clock.png" alt="Clock" /><br /><b>Clock</b></td>
+<td width="25%" align="center"><img src="assets/bar/widget-weather.png" alt="Weather" /><br /><b>Weather</b></td>
+<td width="25%" align="center"><img src="assets/bar/widget-visualizer.png" alt="Audio visualizer" /><br /><b>Visualizer</b></td>
+<td width="25%" align="center"><img src="assets/bar/widget-sysinfo.png" alt="System information" /><br /><b>System info</b></td>
+</tr>
+<tr>
+<td width="25%" align="center"><img src="assets/bar/widget-disk.png" alt="Hard disks" /><br /><b>Disks</b></td>
+<td width="25%" align="center"><img src="assets/bar/widget-network.png" alt="Network" /><br /><b>Network</b></td>
+<td width="25%" align="center"><img src="assets/bar/widget-resources.png" alt="Processor / RAM" /><br /><b>CPU / RAM</b></td>
+<td width="25%" align="center">&nbsp;</td>
 </tr>
 </table>
 
@@ -244,9 +285,9 @@ first if you want to check requirements without changing anything.
 
 ## Supported distributions
 
-**11 distros · custom-tuned per distro**
+**18 distros · any Linux · custom-tuned per family**
 
-`Arch Linux` · `ArchBANG` · `Archcraft` · `Archman` · `BlueStar` · `CachyOS` · `EndeavourOS` · `Garuda` · `Kiro` · `Manjaro` · `RebornOS`
+`Arch` · `ArchBANG` · `Archcraft` · `Archman` · `BlueStar` · `CachyOS` · `EndeavourOS` · `Garuda` · `Kiro` · `Manjaro` · `RebornOS` · `Debian/Ubuntu` · `Fedora/RHEL` · `openSUSE` · `Void` · `Alpine` · `Gentoo` · `NixOS`
 
 <sub>plus <a href="https://github.com/hyprtk/my-dots">my-dots</a>, a personal build</sub>
 
