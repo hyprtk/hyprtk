@@ -7,7 +7,7 @@
 Linux is my desktop. I build dotfiles that turn any distribution into a themed Hyprland desktop — and tweak Hyprland until it sings.
 
 <a href="https://github.com/hyprtk/dotfiles"><img src="https://img.shields.io/badge/dotfiles-c084fc?style=for-the-badge" alt="dotfiles" /></a>
-<a href="https://github.com/hyprtk/hyprtk-bar"><img src="https://img.shields.io/badge/hyprtk--bar-22d3ee?style=for-the-badge" alt="hyprtk-bar" /></a>
+<a href="https://github.com/hyprtk/hyprtk-bar-qt"><img src="https://img.shields.io/badge/hyprtk--bar--qt-22d3ee?style=for-the-badge" alt="hyprtk-bar-qt" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=hyprtk&label=profile%20views&color=c084fc&style=flat-square" alt="profile views" />
 
@@ -36,13 +36,13 @@ A unified, `gum`-powered installer that deploys a complete, pywal16-themed Hyprl
 </td>
 <td width="50%" valign="top">
 
-### 🪟 hyprtk-bar
+### 🪟 hyprtk-bar-qt
 
 **The bar that is the whole desktop.**
 
-A standalone GTK3 taskbar + desktop suite: task list, start menu, arc launcher, notification center, system tray, quick settings, system monitor, theme manager and free-floating desktop widgets — all themed live from your pywal16 palette.
+A standalone Qt6 / QML (Quickshell) taskbar + desktop suite: task list, start menu, arc launcher, notification center, system tray, quick settings, system monitor, theme manager and free-floating desktop widgets — all themed live from your pywal16 palette.
 
-[**Explore hyprtk-bar →**](https://github.com/hyprtk/hyprtk-bar)
+[**Explore hyprtk-bar-qt →**](https://github.com/hyprtk/hyprtk-bar-qt)
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ A single `1-install.sh` detects your distribution and lays down a matching, hand
 <td align="center" width="33%"><b>🖥️ XFCE fallback</b><br /><sub>A full desktop safety-net alongside Hyprland</sub></td>
 </tr>
 <tr>
-<td align="center" width="33%"><b>🪟 hyprtk-bar bundled</b><br /><sub>The desktop suite installs and autostarts with it</sub></td>
+<td align="center" width="33%"><b>🪟 hyprtk-bar-qt bundled</b><br /><sub>The desktop suite installs and autostarts with it</sub></td>
 <td align="center" width="33%"><b>🧠 Modular Lua config</b><br /><sub>16 Lua modules for a clean, hackable Hyprland setup</sub></td>
 <td align="center" width="33%"><b>⚡ NVIDIA & AMD ready</b><br /><sub>Dedicated configs, DRM and AMDGPU support</sub></td>
 </tr>
@@ -136,12 +136,12 @@ sh ./1-install.sh
 
 <div align="center">
 
-## 02 · hyprtk-bar
+## 02 · hyprtk-bar-qt
 
-*The taskbar, menu, notifier and control center — in one GTK3 suite.*
+*The taskbar, menu, notifier and control center — in one Qt6 / QML suite.*
 
 <!-- prettier-ignore -->
-<img src="assets/bar/bar.png" width="100%" alt="hyprtk-bar taskbar" />
+<img src="assets/bar/bar.png" width="100%" alt="hyprtk-bar-qt taskbar" />
 
 <sub>A fully modular taskbar: start button, quick links, task list, active window · centred workspaces · updates, system monitor, keyboard state, clock, notifications, tray and quick settings.</sub>
 
@@ -151,7 +151,7 @@ sh ./1-install.sh
 
 ### A complete desktop suite
 
-hyprtk-bar replaced a stack of separate tools — a bar, a launcher, a notification daemon and a theme manager — with one standalone app. It talks to Hyprland over IPC, renders with GTK3 layer-shell, and re-themes itself the instant your wallpaper changes.
+hyprtk-bar-qt replaced a stack of separate tools — a bar, a launcher, a notification daemon and a theme manager — with one standalone app. It talks to Hyprland over IPC, renders with Qt6 / QML via Quickshell (layer-shell), and re-themes itself the instant your wallpaper changes.
 
 </div>
 
@@ -265,17 +265,17 @@ hyprtk-bar replaced a stack of separate tools — a bar, a launcher, a notificat
 ### Install
 
 ```bash
-git clone https://github.com/hyprtk/hyprtk-bar
-cd hyprtk-bar
+git clone https://github.com/hyprtk/hyprtk-bar-qt
+cd hyprtk-bar-qt
 ./install.sh
 ```
 
-The installer detects your package manager, installs the GTK3 / gtk-layer-shell
-typelibs and feature dependencies, bundles eight bar themes and four wallpapers,
-and registers the bar with Hyprland's autostart. Then run `./install.sh --dry-run`
-first if you want to check requirements without changing anything.
+The installer detects your package manager, installs Quickshell / Qt6 and the
+feature dependencies, bundles the bar themes and wallpapers, and registers the
+bar with Hyprland's autostart. Run `./install.sh --dry-run` first if you want to
+check requirements without changing anything.
 
-<a href="https://github.com/hyprtk/hyprtk-bar"><img src="https://img.shields.io/badge/View%20the%20repository-22d3ee?style=for-the-badge&logo=github&logoColor=white" alt="View the repository" /></a>
+<a href="https://github.com/hyprtk/hyprtk-bar-qt"><img src="https://img.shields.io/badge/View%20the%20repository-22d3ee?style=for-the-badge&logo=github&logoColor=white" alt="View the repository" /></a>
 
 </div>
 
@@ -298,12 +298,12 @@ first if you want to check requirements without changing anything.
 <div>
 
 <a href="https://hypr.land"><img src="https://img.shields.io/badge/Hyprland-22d3ee?style=flat-square" alt="Hyprland" /></a>
-<img src="https://img.shields.io/badge/GTK3-c084fc?style=flat-square" alt="GTK3" />
+<img src="https://img.shields.io/badge/Qt6%20%2F%20QML-c084fc?style=flat-square" alt="Qt6 / QML" />
 <img src="https://img.shields.io/badge/Python-22d3ee?style=flat-square" alt="Python" />
 <img src="https://img.shields.io/badge/Lua-c084fc?style=flat-square" alt="Lua" />
 <img src="https://img.shields.io/badge/pywal16-22d3ee?style=flat-square" alt="pywal16" />
 <img src="https://img.shields.io/badge/rofi-c084fc?style=flat-square" alt="rofi" />
-<img src="https://img.shields.io/badge/GTK%20layer--shell-22d3ee?style=flat-square" alt="layer-shell" />
+<img src="https://img.shields.io/badge/Quickshell-22d3ee?style=flat-square" alt="Quickshell" />
 <img src="https://img.shields.io/badge/Arch%20Linux-c084fc?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
 
 </div>
@@ -353,7 +353,7 @@ first if you want to check requirements without changing anything.
 <div align="center">
 
 <a href="https://github.com/hyprtk/dotfiles">dotfiles</a> ·
-<a href="https://github.com/hyprtk/hyprtk-bar">hyprtk-bar</a> ·
+<a href="https://github.com/hyprtk/hyprtk-bar-qt">hyprtk-bar-qt</a> ·
 <a href="https://github.com/hyprtk">hyprtk</a>
 
 </div>
