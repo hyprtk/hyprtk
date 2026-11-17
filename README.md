@@ -8,6 +8,11 @@ Linux is my desktop. I build dotfiles that turn any distribution into a themed H
 
 <a href="https://github.com/hyprtk/dotfiles"><img src="https://img.shields.io/badge/dotfiles-c084fc?style=for-the-badge" alt="dotfiles" /></a>
 <a href="https://github.com/hyprtk/hyprtk-bar-qt"><img src="https://img.shields.io/badge/hyprtk--bar--qt-22d3ee?style=for-the-badge" alt="hyprtk-bar-qt" /></a>
+<a href="https://github.com/hyprtk/hyprtk-file-manager"><img src="https://img.shields.io/badge/hyprtk--fm-c084fc?style=for-the-badge" alt="hyprtk-fm" /></a>
+<a href="https://github.com/hyprtk/hyprtk-editor"><img src="https://img.shields.io/badge/hyprtk--editor-22d3ee?style=for-the-badge" alt="hyprtk-editor" /></a>
+<a href="https://github.com/hyprtk/hyprtk-hyprland-config-manager"><img src="https://img.shields.io/badge/config--manager-c084fc?style=for-the-badge" alt="config-manager" /></a>
+<a href="https://github.com/hyprtk/hyprtk-usb"><img src="https://img.shields.io/badge/hyprtk--usb-22d3ee?style=for-the-badge" alt="hyprtk-usb" /></a>
+<a href="https://github.com/hyprtk/Hyprtk-ISO-Creator"><img src="https://img.shields.io/badge/ISO--creator-c084fc?style=for-the-badge" alt="Hyprtk-ISO-Creator" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=hyprtk&label=profile%20views&color=c084fc&style=flat-square" alt="profile views" />
 
@@ -17,7 +22,9 @@ Linux is my desktop. I build dotfiles that turn any distribution into a themed H
 
 <div align="center">
 
-## Two projects. One desktop.
+## One suite. One desktop.
+
+*Seven repositories, one installer, one palette — the desktop is the sum of them.*
 
 </div>
 
@@ -43,6 +50,54 @@ A unified, `gum`-powered installer that deploys a complete, pywal16-themed Hyprl
 A standalone Qt6 / QML (Quickshell) taskbar + desktop suite: task list, start menu, arc launcher, notification center, system tray, quick settings, system monitor, theme manager and free-floating desktop widgets — all themed live from your pywal16 palette.
 
 [**Explore hyprtk-bar-qt →**](https://github.com/hyprtk/hyprtk-bar-qt)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗃️ hyprtk-fm
+
+**The file manager.**
+
+Qt6 / QML (Quickshell) with a Python backend: tabs, dual pane, breadcrumbs, thumbnails, previews, undo, trash and LAN share browsing. The default handler for folders, `Super + F` and the bar's **Files** link, with Thunar kept as a fallback.
+
+[**Explore hyprtk-fm →**](https://github.com/hyprtk/hyprtk-file-manager)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 hyprtk-editor
+
+**The text editor.**
+
+Qt Quick + Python: tabs with per-tab undo, session restore, autosaved crash-recovery drafts, Pygments highlighting for 600+ languages, regex search, a command palette, line operations and a minimap — syntax-coloured from the wallpaper palette.
+
+[**Explore hyprtk-editor →**](https://github.com/hyprtk/hyprtk-editor)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ config-manager
+
+**The Hyprland settings GUI.**
+
+Lua-first: it executes your real `hyprland.lua` module chain to read the effective configuration, then writes each change back to the file that owns it, with backups and verification. Opens standalone or as a layer-shell overlay from the bar's Settings.
+
+[**Explore config-manager →**](https://github.com/hyprtk/hyprtk-hyprland-config-manager)
+
+</td>
+<td width="50%" valign="top">
+
+### 💾 hyprtk-usb & ISO creator
+
+**The install medium.**
+
+`Hyprtk-ISO-Creator` builds the live Arch ISO with the desktop preinstalled (pywal theme, bar, file manager, editor, first-run seed); `hyprtk-usb` writes that image to a USB stick and can add a `hyprtk-persist` partition for the persistence boot entry.
+
+[**ISO creator →**](https://github.com/hyprtk/Hyprtk-ISO-Creator) · [**usb →**](https://github.com/hyprtk/hyprtk-usb)
 
 </td>
 </tr>
