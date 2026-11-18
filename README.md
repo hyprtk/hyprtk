@@ -1,20 +1,24 @@
 <div align="center">
 
+<img src="assets/branding/banner.png" alt="hyprtk — part of the hyprtk suite" width="100%" />
+
 # hyprtk
 
 ### Hyprland Tinkerer ###
 
 Linux is my desktop. I build dotfiles that turn any distribution into a themed Hyprland desktop — and tweak Hyprland until it sings.
 
-<a href="https://github.com/hyprtk/dotfiles"><img src="https://img.shields.io/badge/dotfiles-c084fc?style=for-the-badge" alt="dotfiles" /></a>
-<a href="https://github.com/hyprtk/hyprtk-bar-qt"><img src="https://img.shields.io/badge/hyprtk--bar--qt-22d3ee?style=for-the-badge" alt="hyprtk-bar-qt" /></a>
-<a href="https://github.com/hyprtk/hyprtk-file-manager"><img src="https://img.shields.io/badge/hyprtk--fm-c084fc?style=for-the-badge" alt="hyprtk-fm" /></a>
-<a href="https://github.com/hyprtk/hyprtk-editor"><img src="https://img.shields.io/badge/hyprtk--editor-22d3ee?style=for-the-badge" alt="hyprtk-editor" /></a>
-<a href="https://github.com/hyprtk/hyprtk-hyprland-config-manager"><img src="https://img.shields.io/badge/config--manager-c084fc?style=for-the-badge" alt="config-manager" /></a>
-<a href="https://github.com/hyprtk/hyprtk-usb"><img src="https://img.shields.io/badge/hyprtk--usb-22d3ee?style=for-the-badge" alt="hyprtk-usb" /></a>
-<a href="https://github.com/hyprtk/Hyprtk-ISO-Creator"><img src="https://img.shields.io/badge/ISO--creator-c084fc?style=for-the-badge" alt="Hyprtk-ISO-Creator" /></a>
+<a href="https://github.com/hyprtk/dotfiles"><img src="https://img.shields.io/badge/dotfiles-FD4FB6?style=for-the-badge" alt="dotfiles" /></a>
+<a href="https://github.com/hyprtk/hyprtk-bar-qt"><img src="https://img.shields.io/badge/hyprtk--bar--qt-02DEDE?style=for-the-badge" alt="hyprtk-bar-qt" /></a>
+<a href="https://github.com/hyprtk/hyprtk-file-manager"><img src="https://img.shields.io/badge/hyprtk--fm-FD4FB6?style=for-the-badge" alt="hyprtk-fm" /></a>
+<a href="https://github.com/hyprtk/hyprtk-editor"><img src="https://img.shields.io/badge/hyprtk--editor-02DEDE?style=for-the-badge" alt="hyprtk-editor" /></a>
+<a href="https://github.com/hyprtk/hyprtk-term"><img src="https://img.shields.io/badge/hyprtk--term-FD4FB6?style=for-the-badge" alt="hyprtk-term" /></a>
+<a href="https://github.com/hyprtk/hyprtk-calc"><img src="https://img.shields.io/badge/hyprtk--calc-02DEDE?style=for-the-badge" alt="hyprtk-calc" /></a>
+<a href="https://github.com/hyprtk/hyprtk-hyprland-config-manager"><img src="https://img.shields.io/badge/config--manager-FD4FB6?style=for-the-badge" alt="config-manager" /></a>
+<a href="https://github.com/hyprtk/hyprtk-usb"><img src="https://img.shields.io/badge/hyprtk--usb-02DEDE?style=for-the-badge" alt="hyprtk-usb" /></a>
+<a href="https://github.com/hyprtk/Hyprtk-ISO-Creator"><img src="https://img.shields.io/badge/ISO--creator-FD4FB6?style=for-the-badge" alt="Hyprtk-ISO-Creator" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=hyprtk&label=profile%20views&color=c084fc&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=hyprtk&label=profile%20views&color=02dede&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -24,7 +28,7 @@ Linux is my desktop. I build dotfiles that turn any distribution into a themed H
 
 ## One suite. One desktop.
 
-*Seven repositories, one installer, one palette — the desktop is the sum of them.*
+*Nine repositories, one installer, one mark, one palette — the desktop is the sum of them.*
 
 </div>
 
@@ -101,6 +105,30 @@ Lua-first: it executes your real `hyprland.lua` module chain to read the effecti
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### hyprtk-term
+
+**The terminal.**
+
+Qt Quick/QML over **libvterm**: tabs, a 10k-line scrollback with search, truecolor and the pywal palette, box drawing painted as geometry, and a few-hundred-millisecond start. Also the suite's `$TERMINAL`.
+
+[**Explore hyprtk-term →**](https://github.com/hyprtk/hyprtk-term)
+
+</td>
+<td width="50%" valign="top">
+
+### hyprtk-calc
+
+**The calculator.**
+
+Exact `Decimal` arithmetic behind a hand-written parser (no `eval`), so `0.1 + 0.2` is `0.3`; basic/scientific/programmer keypads, a shared history and a shell mode in the same binary.
+
+[**Explore hyprtk-calc →**](https://github.com/hyprtk/hyprtk-calc)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -138,7 +166,7 @@ A single `1-install.sh` detects your distribution and lays down a matching, hand
 </tr>
 <tr>
 <td align="center" width="33%"><b>🛠️ 60+ utility scripts</b><br /><sub>Volume, brightness, recording, wallpaper and more</sub></td>
-<td align="center" width="33%"><b>🖼️ Wallpaper tools</b><br /><sub>Random picker, rofi selector, film roll</sub></td>
+<td align="center" width="33%"><b>🖼️ Wallpaper tools</b><br /><sub>Random picker, wallpaper selector, film roll</sub></td>
 <td align="center" width="33%"><b>🔒 Session & lock</b><br /><sub>swaylock blur, logout menu, SDDM/GRUB theming</sub></td>
 </tr>
 </table>
@@ -183,7 +211,7 @@ cd ~/hyprtk
 sh ./1-install.sh
 ```
 
-<a href="https://github.com/hyprtk/dotfiles"><img src="https://img.shields.io/badge/View%20the%20repository-c084fc?style=for-the-badge&logo=github&logoColor=white" alt="View the repository" /></a>
+<a href="https://github.com/hyprtk/dotfiles"><img src="https://img.shields.io/badge/View%20the%20repository-FD4FB6?style=for-the-badge&logo=github&logoColor=white" alt="View the repository" /></a>
 
 </div>
 
@@ -224,7 +252,7 @@ hyprtk-bar-qt replaced a stack of separate tools — a bar, a launcher, a notifi
 </tr>
 <tr>
 <td align="center" width="33%"><b>📊 System monitor</b><br /><sub>CPU, memory, disks, network, GPU and process manager</sub></td>
-<td align="center" width="33%"><b>🎨 Theme manager</b><br /><sub>Wallpaper, pywal, rofi, bar themes, icons, SDDM & GRUB</sub></td>
+<td align="center" width="33%"><b>🎨 Theme manager</b><br /><sub>Wallpaper, pywal, bar themes, icons, SDDM & GRUB</sub></td>
 <td align="center" width="33%"><b>⚙️ Quick settings</b><br /><sub>Wi-Fi, Bluetooth, volume + mic, brightness</sub></td>
 </tr>
 <tr>
@@ -330,7 +358,7 @@ feature dependencies, bundles the bar themes and wallpapers, and registers the
 bar with Hyprland's autostart. Run `./install.sh --dry-run` first if you want to
 check requirements without changing anything.
 
-<a href="https://github.com/hyprtk/hyprtk-bar-qt"><img src="https://img.shields.io/badge/View%20the%20repository-22d3ee?style=for-the-badge&logo=github&logoColor=white" alt="View the repository" /></a>
+<a href="https://github.com/hyprtk/hyprtk-bar-qt"><img src="https://img.shields.io/badge/View%20the%20repository-02DEDE?style=for-the-badge&logo=github&logoColor=white" alt="View the repository" /></a>
 
 </div>
 
@@ -352,16 +380,35 @@ check requirements without changing anything.
 
 <div>
 
-<a href="https://hypr.land"><img src="https://img.shields.io/badge/Hyprland-22d3ee?style=flat-square" alt="Hyprland" /></a>
-<img src="https://img.shields.io/badge/Qt6%20%2F%20QML-c084fc?style=flat-square" alt="Qt6 / QML" />
-<img src="https://img.shields.io/badge/Python-22d3ee?style=flat-square" alt="Python" />
-<img src="https://img.shields.io/badge/Lua-c084fc?style=flat-square" alt="Lua" />
-<img src="https://img.shields.io/badge/pywal16-22d3ee?style=flat-square" alt="pywal16" />
-<img src="https://img.shields.io/badge/rofi-c084fc?style=flat-square" alt="rofi" />
-<img src="https://img.shields.io/badge/Quickshell-22d3ee?style=flat-square" alt="Quickshell" />
-<img src="https://img.shields.io/badge/Arch%20Linux-c084fc?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
+<a href="https://hypr.land"><img src="https://img.shields.io/badge/Hyprland-02DEDE?style=flat-square&labelColor=05060B" alt="Hyprland" /></a>
+<img src="https://img.shields.io/badge/Qt6%20%2F%20QML-FD4FB6?style=flat-square&labelColor=05060B" alt="Qt6 / QML" />
+<img src="https://img.shields.io/badge/Python-02DEDE?style=flat-square&labelColor=05060B" alt="Python" />
+<img src="https://img.shields.io/badge/Lua-FD4FB6?style=flat-square&labelColor=05060B" alt="Lua" />
+<img src="https://img.shields.io/badge/pywal16-02DEDE?style=flat-square&labelColor=05060B" alt="pywal16" />
+<img src="https://img.shields.io/badge/Quickshell-02DEDE?style=flat-square&labelColor=05060B" alt="Quickshell" />
+<img src="https://img.shields.io/badge/Arch%20Linux-FD4FB6?style=flat-square&labelColor=05060B&logo=archlinux&logoColor=white" alt="Arch Linux" />
 
 </div>
+
+</div>
+
+---
+
+<div align="center">
+
+## Branding
+
+<img src="assets/branding/palette.png" alt="hyprtk palette: cyan #02DEDE, magenta #FD4FB6, navy #000044, ink #05060B, white #F2F6FF, muted #8A93A6" width="100%" />
+
+The suite is one mark, one palette and one typeface across every repository,
+wiki and app icon. The mark is the **v09** direction: a near-black disc, a
+gradient ring, the oversized `ht` anchor and the component glyph in a badge.
+The wordmark is **KoblenzSerial Bold** — `hypr` in cyan, `tk` in magenta —
+converted to outlines, so no font install is needed.
+
+<sub>cyan <code>#02DEDE</code> · magenta <code>#FD4FB6</code> · navy <code>#000044</code> · ink <code>#05060B</code> · white <code>#F2F6FF</code> · muted <code>#8A93A6</code></sub>
+
+<sub>Full guide: <a href="https://github.com/hyprtk/dotfiles#branding">dotfiles README → Branding</a></sub>
 
 </div>
 
@@ -409,6 +456,13 @@ check requirements without changing anything.
 
 <a href="https://github.com/hyprtk/dotfiles">dotfiles</a> ·
 <a href="https://github.com/hyprtk/hyprtk-bar-qt">hyprtk-bar-qt</a> ·
-<a href="https://github.com/hyprtk">hyprtk</a>
+<a href="https://github.com/hyprtk/hyprtk-file-manager">hyprtk-fm</a> ·
+<a href="https://github.com/hyprtk/hyprtk-editor">hyprtk-editor</a> ·
+<a href="https://github.com/hyprtk/hyprtk-term">hyprtk-term</a> ·
+<a href="https://github.com/hyprtk/hyprtk-calc">hyprtk-calc</a> ·
+<a href="https://github.com/hyprtk/hyprtk-hyprland-config-manager">config-manager</a> ·
+<a href="https://github.com/hyprtk/hyprtk-usb">hyprtk-usb</a> ·
+<a href="https://github.com/hyprtk/Hyprtk-ISO-Creator">ISO creator</a> ·
+<a href="https://hyprtk.github.io">site</a>
 
 </div>
